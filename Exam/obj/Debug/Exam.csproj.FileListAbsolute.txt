@@ -1,0 +1,10 @@
+D:\SQL\SelectExam\Exam\bin\Debug\Exam.exe.config
+D:\SQL\SelectExam\Exam\bin\Debug\Exam.exe
+D:\SQL\SelectExam\Exam\bin\Debug\Exam.pdb
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.Properties.Resources.resources
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.exe
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.pdb
+D:\SQL\SelectExam\Exam\obj\Debug\Exam.Form1.resources

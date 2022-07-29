@@ -1,0 +1,68 @@
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+D:\SQL\SelectExam\SelectExam\bin\Debug\SelectExam.exe.config
+D:\SQL\SelectExam\SelectExam\bin\Debug\SelectExam.exe
+D:\SQL\SelectExam\SelectExam\bin\Debug\SelectExam.pdb
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.exe
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.pdb
+D:\SQL\SelectExam\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.Exam.resources
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.exe
+D:\SQL\SelectExam\New folder\SelectExam\obj\Debug\SelectExam.pdb
+D:\SQL\SelectExam\New folder\SelectExam\bin\Debug\SelectExam.exe.config
+D:\SQL\SelectExam\New folder\SelectExam\bin\Debug\SelectExam.exe
+D:\SQL\SelectExam\New folder\SelectExam\bin\Debug\SelectExam.pdb
+E:\Gem\m.gemey\final proj\Exam\SelectExam\bin\Debug\SelectExam.exe.config
+E:\Gem\m.gemey\final proj\Exam\SelectExam\bin\Debug\SelectExam.exe
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.Exam.resources
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.ExamQuestions.resources
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.exe
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.pdb
+E:\Gem\m.gemey\final proj\Exam\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\bin\Debug\SelectExam.exe.config
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\bin\Debug\SelectExam.exe
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\bin\Debug\SelectExam.pdb
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.Exam.resources
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.ExamQuestions.resources
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.exe
+E:\Gem\m.gemey\final proj\Exam - Copy\SelectExam\obj\Debug\SelectExam.pdb
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\bin\Debug\SelectExam.exe.config
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\bin\Debug\SelectExam.exe
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\bin\Debug\SelectExam.pdb
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.Exam.resources
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.ExamQuestions.resources
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.exe
+C:\Users\ahmed\Downloads\finalExamProject\SelectExam\obj\Debug\SelectExam.pdb
+D:\ITIPROJECT\finalExamProject\SelectExam\bin\Debug\SelectExam.exe.config
+D:\ITIPROJECT\finalExamProject\SelectExam\bin\Debug\SelectExam.exe
+D:\ITIPROJECT\finalExamProject\SelectExam\bin\Debug\SelectExam.pdb
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.csprojAssemblyReference.cache
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.Exam.resources
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.ExamQuestions.resources
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.SelectExam.resources
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.Properties.Resources.resources
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.csproj.GenerateResource.cache
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.csproj.CoreCompileInputs.cache
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.exe
+D:\ITIPROJECT\finalExamProject\SelectExam\obj\Debug\SelectExam.pdb
